@@ -1,4 +1,4 @@
-<div style="text-align:center"><img width="300px" src="doc/logo.png" /></div>
+<div style="text-align:center"><img width="100px" src="doc/logo.png" /></div>
 
 # ModelLifeCycle
 Structure of a models life cycle manager application based on MLFlow and Docker in Cloud (GCP)
